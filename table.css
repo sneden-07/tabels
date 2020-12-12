@@ -1,0 +1,31 @@
+table{
+    border: 3px solid blueviolet ;
+    border-collapse: collapse;
+    
+    
+    
+
+}
+
+body{
+    background-color: lightgray;
+    
+}
+
+.head th {
+    background-color: rgb(24, 121, 153);
+}
+
+#highlight {
+    background-color: skyblue;
+}
+tr{
+    border: 1px solid blueviolet;
+    border-spacing: 10px;
+}
+
+td{
+    border-spacing: px;
+}
+
+
